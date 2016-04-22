@@ -5,6 +5,6 @@ package lib;
  */
 public class Settings {
     public final static int CANVAS_WIDTH = 800;
-    public final static int CANVAS_HEIGTH = 600;
+    public final static int CANVAS_HEIGHT = 600;
     public static float faceEffect = 0.08f;
 }
